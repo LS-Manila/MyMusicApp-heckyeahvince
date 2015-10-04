@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">#LSS</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="filenames">
+        <item>m1.mp3</item>
+        <item>m2.mp3</item>
+        <item>m3.mp3</item>
+    </string-array>
+</resources>
